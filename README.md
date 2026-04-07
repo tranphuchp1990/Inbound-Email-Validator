@@ -1,7 +1,7 @@
 
 Powerful Email Validator removes invalid, dead, no-reply, disposable, and spam trap emails — helping you keep only active and  deliverable email addresses.
 
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/Saga-Email-Validator-new-version.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
